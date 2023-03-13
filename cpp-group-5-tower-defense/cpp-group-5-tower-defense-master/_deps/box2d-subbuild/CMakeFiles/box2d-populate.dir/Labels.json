@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/smashraf/cpp/cpp_course-autumn-2022/combined/_deps/box2d-subbuild/CMakeFiles/box2d-populate"
+		},
+		{
+			"file" : "/home/smashraf/cpp/cpp_course-autumn-2022/combined/_deps/box2d-subbuild/CMakeFiles/box2d-populate.rule"
+		},
+		{
+			"file" : "/home/smashraf/cpp/cpp_course-autumn-2022/combined/_deps/box2d-subbuild/CMakeFiles/box2d-populate-complete.rule"
+		},
+		{
+			"file" : "/home/smashraf/cpp/cpp_course-autumn-2022/combined/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-build.rule"
+		},
+		{
+			"file" : "/home/smashraf/cpp/cpp_course-autumn-2022/combined/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-configure.rule"
+		},
+		{
+			"file" : "/home/smashraf/cpp/cpp_course-autumn-2022/combined/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-download.rule"
+		},
+		{
+			"file" : "/home/smashraf/cpp/cpp_course-autumn-2022/combined/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-install.rule"
+		},
+		{
+			"file" : "/home/smashraf/cpp/cpp_course-autumn-2022/combined/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/smashraf/cpp/cpp_course-autumn-2022/combined/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-patch.rule"
+		},
+		{
+			"file" : "/home/smashraf/cpp/cpp_course-autumn-2022/combined/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-test.rule"
+		},
+		{
+			"file" : "/home/smashraf/cpp/cpp_course-autumn-2022/combined/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"box2d-populate"
+		],
+		"name" : "box2d-populate"
+	}
+}

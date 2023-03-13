@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "T.1.1: First task",
+			"path": "T1-first_task"
+		}
+	],
+    "settings": {
+        "cmake.sourceDirectory": "${workspaceFolder}",
+        "cmake.buildDirectory": "${workspaceFolder}/../build/${workspaceFolderBasename}",
+        "cmake.buildBeforeRun": true,
+    }
+}
