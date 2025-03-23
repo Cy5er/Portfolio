@@ -10,7 +10,6 @@
   - [Stopword Removal and Stemming/Lemmatization](#stopword-removal-and-stemminglemmatization)
   - [Feature Extraction](#feature-extraction)
   - [Results and Analysis](#results-and-analysis)
-  - [Conclusion](#conclusion)
 
 ---
 
@@ -65,8 +64,3 @@ This notebook demonstrates a complete pipeline for processing raw text data. The
 - Visualizations (e.g., word frequency histograms or word clouds) illustrate the distribution of words in the dataset.
 - Sample outputs show the effect of normalization, tokenization, and stopword removal.
 - Analysis confirms that the preprocessing pipeline effectively cleans and standardizes the raw text data.
-
----
-
-## Conclusion
-This notebook successfully implements a complete text processing pipeline. It converts raw text into a clean, normalized, and tokenized format with extracted features that are ready for further natural language processing tasks. The workflow lays the groundwork for applications in text classification, clustering, sentiment analysis, and other NLP problems.

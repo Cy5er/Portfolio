@@ -11,7 +11,6 @@
     - [Training Procedure](#training-procedure)
     - [Evaluation Metrics](#evaluation-metrics)
   - [Results](#results)
-  - [Conclusion](#conclusion)
 
 ---
 
@@ -66,8 +65,3 @@ This assignment focuses on building a Recurrent Neural Network (RNN) for sequenc
 - The PyTorch RNN achieved better scalability and faster training times due to optimized computations.
 - Loss curves and sample predictions indicate that the model learned meaningful sequence patterns.
 - Generated sample sequences demonstrated the model's ability to capture temporal dependencies.
-
----
-
-## Conclusion
-This assignment successfully implemented two approaches to building an RNN for sequence modeling. The exercise enhanced understanding of RNN dynamics, sequence preprocessing, and model training techniques. The PyTorch-based model, in particular, proved to be effective and efficient, paving the way for more advanced sequence tasks such as language modeling and time-series forecasting.

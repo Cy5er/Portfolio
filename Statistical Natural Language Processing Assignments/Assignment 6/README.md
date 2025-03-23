@@ -9,7 +9,6 @@
     - [Part 2: Implementation of Subword Tokenization](#part-2-implementation-of-subword-tokenization)
     - [Part 3: Evaluation and Comparison of Tokenization Methods](#part-3-evaluation-and-comparison-of-tokenization-methods)
   - [Implementation Highlights](#implementation-highlights)
-  - [Conclusion](#conclusion)
 
 ---
 
@@ -57,8 +56,3 @@ In **Assignment 6**, the focus is on improving text preprocessing by implementin
   - Counts frequency of adjacent token pairs.
   - Merges the most frequent pair iteratively until reaching a predefined vocabulary size.
 - **Evaluation Metrics**: Compared vocabulary sizes, token coverage, and out-of-vocabulary rates before and after subword segmentation.
-
----
-
-## Conclusion
-This assignment successfully implements a subword tokenization pipeline, addressing the shortcomings of traditional word-level tokenization. By reducing the vocabulary size and improving the handling of out-of-vocabulary words, the subword approach enhances the efficiency and robustness of text processing for downstream NLP tasks. Future work could explore integrating these methods with language models to assess improvements in overall performance.

@@ -80,5 +80,3 @@ In **Assignment 3**, we focus on **image processing** workflows, covering:
 3. **Image Blending**  
    ![Blending Results](Screenshot%202025-03-23%20152009.jpg)  
    *A naive alpha blend vs. Laplacian pyramid. The pyramid blend yields smoother transitions with minimal seams. The difference image highlights the changes in overlapping regions.*
-
-These steps strengthen your understanding of **spatial and frequency domain** methods in computer vision, crucial for advanced image manipulation, denoising, and blending tasks.

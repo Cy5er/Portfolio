@@ -55,11 +55,6 @@ In **Assignment 9**, we shift our focus to **simulator-based methods** and the w
 ## Results & Visualizations
 
 1. **Simulated Data vs. Underlying Function**  
-   ![Simulated Data vs. Simulator](Screenshot%202025-03-23%20141051.jpg)  
-   *Blue dots show synthetic samples from the simulator, while the red curve is the true underlying function used to generate data.*
-
+   ![Simulated Data vs. Simulator](Screenshot%202025-03-23%20141051.jpg) 
 2. **Uncertainty Bounds**  
    ![Uncertainty Intervals](Screenshot%202025-03-23%20141152.jpg)  
-   *Shaded or line-bounded 95% intervals (light blue) envelop the predicted curve (dark line). This reveals the range of plausible outcomes given posterior uncertainty.*
-
-By completing these steps, you gain insight into **simulator-based testing** of inference algorithms, along with the crucial skill of **quantifying predictive uncertainty** in Bayesian models.

@@ -11,7 +11,6 @@
     - [ResNet](#resnet)
   - [Implementation Highlights](#implementation-highlights)
   - [Results \& Analysis](#results--analysis)
-  - [Conclusion](#conclusion)
 
 ---
 
@@ -72,12 +71,3 @@ In **Assignment 2**, we explore and implement various Convolutional Neural Netwo
 - **VGG**: Showed improved accuracy over LeNet, benefiting from a deeper network with more complex feature extraction.
 - **ResNet**: Achieved the best performance among the three models, demonstrating the effectiveness of residual connections in training deeper networks.
 - Visualizations such as loss curves and accuracy plots were generated to compare the convergence and performance of each model.
-
----
-
-## Conclusion
-This assignment provided a comprehensive comparison of three CNN architectures:
-- **LeNet** offers a simple, fast baseline for CNN-based image classification.
-- **VGG** improves performance through depth and uniform architecture.
-- **ResNet** further enhances accuracy and training stability using residual learning.
-Overall, the experiments underscore the importance of network depth and architectural innovations in achieving high performance in image classification tasks.

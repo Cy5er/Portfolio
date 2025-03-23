@@ -133,5 +133,3 @@ Through these systems, we learn how Newton’s laws translate into code via forc
 
 4. **Spring System**  
    ![Screenshot: Basic spring system](Screenshot%202025-03-23%20133235.jpg)
-
-In each system, the UI allows changing constants, integrators, and time steps. Cloth or multi-pendulum setups illustrate how integrators handle stiff springs at different timesteps.

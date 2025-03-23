@@ -11,7 +11,6 @@
     - [Training Procedure](#training-procedure)
     - [Evaluation Metrics](#evaluation-metrics)
   - [Results \& Visualizations](#results--visualizations)
-  - [Conclusion](#conclusion)
 
 ---
 
@@ -66,8 +65,3 @@ In Assignment 5, we implement a Transformer-based language model to learn and ge
 
 3. **Attention Visualizations (Optional)**  
    *Heatmaps of attention weights that reveal which parts of the input the model focuses on during prediction.*
-
----
-
-## Conclusion
-The Transformer-based language model successfully learns to model and generate text by leveraging self-attention mechanisms and positional encoding. The training process shows steady convergence, and the generated text samples confirm the model’s capability to capture complex language patterns. Future work may involve scaling up the model, further hyperparameter tuning, and integrating larger corpora for improved performance.

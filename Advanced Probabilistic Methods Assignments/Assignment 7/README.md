@@ -68,15 +68,10 @@ In **Assignment 7**, we continue refining our approach to **mixture modeling** a
 ## Results & Visualizations
 
 1. **ELBO Progression**  
-   ![ELBO Plot](Screenshot%202025-03-23%20140819.jpg)  
-   *Shows how ELBO rises from \(-16000\) up to around \(-11000\) over 15 iterations, indicating improved variational approximations.*  
+   ![ELBO Plot](Screenshot%202025-03-23%20140819.jpg)   
 
 2. **Training/Test Data Clusters**  
    ![Training vs. Test Data](Screenshot%202025-03-23%20140845.jpg)  
-   *Three natural clusters in training data (colored green, blue, red), with test data points in black. Illustrates strong separation among clusters.*
 
 3. **Model Selection & Cross-Validation**  
    ![Model Selection](Screenshot%202025-03-23%20140855.jpg)  
-   *Bar chart of cross-validation scores for mixture components K=1 through 5. Also displays test data likelihood. The lower bar (or higher score, depending on scale) suggests optimal K for the mixture. An ellipsoidal depiction of cluster covariances is overlaid on the data for interpretability.*
-
-By completing these parts, you will gain solid competence in **variational inference** for mixture models, employing ELBO diagnostics, evaluating clustering performance on separate test sets, and making data-driven decisions about model complexity.

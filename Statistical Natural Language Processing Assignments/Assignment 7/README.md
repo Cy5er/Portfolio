@@ -10,7 +10,6 @@
     - [Part 3: BLEU Score Computation](#part-3-bleu-score-computation)
     - [Part 4: Analysis and Visualization](#part-4-analysis-and-visualization)
   - [Implementation Highlights](#implementation-highlights)
-  - [Conclusion](#conclusion)
 
 ---
 
@@ -72,8 +71,3 @@ In **Assignment 7**, we evaluate machine translation quality by implementing a B
   - Combined the scores to generate the final BLEU score.
 - **Visualization**:  
   - Created plots to display n-gram precision and overall BLEU scores for detailed analysis.
-
----
-
-## Conclusion
-The BLEU score evaluation pipeline implemented in this notebook provides an effective quantitative measure of machine translation quality. By comparing candidate translations with reference translations, the system offers insights into the strengths and limitations of the translation model. Future work may include refining the preprocessing steps and exploring alternative evaluation metrics to complement BLEU.

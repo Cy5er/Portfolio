@@ -70,7 +70,6 @@ In this sixth assignment, we tackle **mixture modeling** and **variational infer
 
 1. **Variational Iterations**  
    ![Variational Mixture Updates](Screenshot%202025-03-23%20140648.jpg)  
-   *Three snapshots (iteration 1, 3, 15) show how the mixture model’s PDF (red) aligns more closely with the true PDF (black) and data histogram (blue).*
 
    - **Top row**: Data histogram vs. true PDF vs. the currently estimated PDF.  
    - **Middle row**: The variational distribution \(q(\tau)\) for the mixing weight(s).  
@@ -79,5 +78,3 @@ In this sixth assignment, we tackle **mixture modeling** and **variational infer
 2. **Convergence Trends**  
    - Mean estimates (\(\mathbb{E}[\tau], \mathbb{E}[\theta]\)) shift closer to the true values over iterations.  
    - Mixture components become sharper or narrower as inference pinpoints each mode.
-
-Through these steps, we gain practical insights into **finite mixture** modeling and how **variational inference** can iteratively refine our posterior approximations toward multi-modal data distributions.

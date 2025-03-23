@@ -9,7 +9,6 @@
     - [MLP using NumPy](#mlp-using-numpy)
     - [MLP using PyTorch](#mlp-using-pytorch)
   - [Results](#results)
-  - [Conclusion](#conclusion)
 
 ---
 
@@ -49,11 +48,3 @@ This assignment focuses on implementing a Multi-Layer Perceptron (MLP) for a dee
 - The NumPy implementation provides a detailed understanding of the underlying mathematics of MLPs.
 - The PyTorch implementation achieves similar or improved performance with less code and faster training times.
 - Both models’ performance (e.g., training loss, validation accuracy) is visualized through plots, demonstrating successful convergence.
-
----
-
-## Conclusion
-This assignment demonstrates two approaches to building an MLP:
-- The **NumPy-based model** is educational for learning the fundamentals of neural network training.
-- The **PyTorch-based model** is more practical and scalable for real-world applications.
-Overall, the exercise illustrates the trade-offs between manual implementations and modern deep learning frameworks, paving the way for further experimentation with more complex architectures.

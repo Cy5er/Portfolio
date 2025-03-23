@@ -10,7 +10,6 @@
     - [Part 3: Training the Language Model](#part-3-training-the-language-model)
     - [Part 4: Evaluation and Text Generation](#part-4-evaluation-and-text-generation)
   - [Implementation Highlights](#implementation-highlights)
-  - [Conclusion](#conclusion)
 
 ---
 
@@ -67,8 +66,3 @@ In **Assignment 5**, a Neural Network Language Model (NN-LM) is developed to lea
 - **Neural Network Design**: The model leverages an embedding layer and one or more hidden layers to capture contextual dependencies. The output is produced using a softmax layer to form a probability distribution.
 - **Training Setup**: The training loop uses cross-entropy loss and the Adam optimizer. Model performance is tracked via perplexity.
 - **Text Generation**: The trained model is used to generate text samples by iteratively predicting the next word based on a given seed.
-
----
-
-## Conclusion
-The neural network language model effectively learns to predict the next word in a sequence and captures important language patterns from the text corpus. While the model demonstrates promising performance as indicated by the decreasing loss and perplexity during training, further improvements can be achieved by exploring more complex architectures (such as RNNs or transformers) and fine-tuning hyperparameters. The generated text samples illustrate the model’s ability to generate coherent language, providing a foundation for future work in text generation and language modeling.

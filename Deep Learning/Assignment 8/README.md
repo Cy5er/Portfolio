@@ -9,8 +9,6 @@
     - [Data Preprocessing](#data-preprocessing)
     - [Model Architecture](#model-architecture)
     - [Training Procedure](#training-procedure)
-  - [Results \& Visualizations](#results--visualizations)
-  - [Conclusion](#conclusion)
 
 ---
 
@@ -44,20 +42,3 @@ In Assignment 8, we implement a Denoising Diffusion Probabilistic Model (DDPM) f
 - **Loss Function**: Use a mean squared error (MSE) loss between the predicted noise and the actual noise added during the forward process.
 - **Optimization**: Train the model using the Adam optimizer, tuning hyperparameters such as learning rate, batch size, and number of diffusion steps.
 - **Training Loop**: Iterate over epochs, sampling timesteps and noisy images, and update model parameters based on the computed loss.
-
----
-
-## Results & Visualizations
-1. **Training Loss Curve**  
-   *Plot showing the decrease in MSE loss over training epochs, indicating model convergence.*
-
-2. **Diffusion Process Visualization**  
-   *Examples of images at different noise levels during the reverse diffusion process, illustrating gradual denoising.*
-
-3. **Generated Samples**  
-   *Final generated images synthesized from random noise, demonstrating the quality and realism of the DDPM outputs.*
-
----
-
-## Conclusion
-The DDPM successfully learns to reverse the diffusion process, generating realistic images from random noise. The model’s performance, as evidenced by the loss curves and sample outputs, demonstrates the potential of diffusion models for generative tasks. Future work may focus on refining the noise schedule, scaling the architecture, and experimenting with alternative loss functions to further enhance sample quality.

@@ -80,5 +80,3 @@ In **Assignment 5**, we dive deeper into **edge-based methods** in computer visi
    ![Hough Transform Lines](Screenshot%202025-03-23%20193748.jpg)  
    - *Hough space image (top) with bright peaks indicating strong lines.*  
    - *Detected lines drawn in multiple colors (bottom) overlaying the original keyboard image.*
-
-Through these tasks, you will develop a practical grasp of **edge-based** feature extraction and **robust** line detection, essential for image analysis and geometric reasoning in computer vision.  

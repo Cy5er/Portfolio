@@ -9,7 +9,6 @@
     - [Part 2: Semantic Embedding of Text Descriptions](#part-2-semantic-embedding-of-text-descriptions)
     - [Part 3: Matching Visual and Textual Data](#part-3-matching-visual-and-textual-data)
   - [Implementation Highlights](#implementation-highlights)
-  - [Conclusion](#conclusion)
 
 ---
 
@@ -52,8 +51,3 @@ In **Assignment 4**, the focus is on developing a Visual Semantic Matching Syste
 - **Text Embedding**: Leveraged transformer-based models to create meaningful semantic representations of text.
 - **Similarity Matching**: Used cosine similarity to compare embeddings from both modalities.
 - **Evaluation**: Visualized results and computed retrieval metrics to assess the matching performance.
-
----
-
-## Conclusion
-The Visual Semantic Matching System successfully integrates visual feature extraction and textual semantic embedding to match images with relevant text descriptions. The approach demonstrates promising retrieval performance and paves the way for applications in image retrieval, captioning, and multimedia search. Future work may include further fine-tuning of embeddings and exploring alternative similarity measures to enhance matching accuracy.

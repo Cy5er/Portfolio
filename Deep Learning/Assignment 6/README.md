@@ -12,7 +12,6 @@
     - [Training Procedure](#training-procedure)
     - [Evaluation Metrics](#evaluation-metrics)
   - [Results \& Visualizations](#results--visualizations)
-  - [Conclusion](#conclusion)
 
 ---
 
@@ -70,8 +69,3 @@ In Assignment 6, a Graph Neural Network (GNN) is implemented to perform node cla
 
 3. **Embedding Visualization**  
    *Optional: t-SNE or PCA plots of the learned node embeddings, illustrating clustering of nodes according to their classes.*
-
----
-
-## Conclusion
-The GNN model successfully learns to classify nodes by leveraging both node features and graph structure. The training process shows good convergence, and the evaluation metrics indicate effective performance on the node classification task. Future work could involve exploring deeper architectures, alternative graph convolution methods, or additional regularization techniques to further improve model performance.

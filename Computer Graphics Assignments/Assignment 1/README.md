@@ -107,5 +107,3 @@ Below are some screenshots illustrating each main feature in action:
 
 4. **OBJ Model (Sphere)**  
    ![Screenshot 5: Loaded Sphere OBJ](Screenshot%202025-03-23%20131645.jpg)
-
-These illustrate the progression from a simple triangle, to an indexed tetrahedron, a generated cone, and finally a complex OBJ file (sphere).

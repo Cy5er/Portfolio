@@ -33,7 +33,7 @@ With these features, the ray tracer can handle significantly more complex scenes
 ### R1: BVH Construction & Traversal
 - **Goal**: Construct a **bounding volume hierarchy** over the scene’s triangles to reduce per-ray intersection time.  
 - **Approach**:
-  1. **Build** a tree by splitting the triangle set recursively—either by *object median*, *spatial median*, or a more advanced partition strategy.  
+  1. **Build** a tree by splitting the triangle set recursively—either by *object median*, *spatial median*, or a more advanced partition strategy like SAH.  
   2. Each **leaf node** references a small subset of triangles; each **interior node** stores an AABB, with pointers to left/right children.  
   3. **Traverse** the BVH during ray intersection (instead of brute-forcing all triangles). Clip rays against node AABBs and only intersect leaf triangles.  
 - **Outcome**: Drastically improved ray-tracing speed in scenes with large triangle counts.

@@ -15,7 +15,6 @@
       - [Support Vector Regressor (SVR)](#support-vector-regressor-svr)
     - [4. Feature Importance](#4-feature-importance)
   - [Results](#results)
-  - [Conclusion](#conclusion)
 
 ---
 
@@ -75,17 +74,6 @@ The dataset used is `Dilute_Solute_Diffusion_with_features.csv`, which includes:
 
 ## Results
 
-| Model               | Mean Squared Error | R-squared (R²) |
-|--------------------|--------------------|----------------|
-| Linear Regression  | *Displayed in output* | *Displayed in output* |
-| Random Forest      | *Displayed in output* | *Displayed in output* |
-| Support Vector Regressor | *Displayed in output* | *Displayed in output* |
-
 - PCA explained a large proportion of variance with a small number of components.
 - Random Forest achieved the best predictive performance (in most cases).
 - Key features (after PCA loading analysis) contribute significantly to variation in `E_raw`.
-
----
-
-## Conclusion
-This notebook demonstrates how dimensionality reduction with PCA and regression modeling can be used to analyze and predict material diffusion properties. Insights into feature importance and model performance help guide future studies in materials informatics and alloy design.

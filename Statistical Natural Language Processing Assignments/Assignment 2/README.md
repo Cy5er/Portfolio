@@ -9,7 +9,6 @@
   - [N-gram Generation](#n-gram-generation)
   - [Frequency Analysis](#frequency-analysis)
   - [Visualization](#visualization)
-  - [Conclusion](#conclusion)
 
 ---
 
@@ -53,8 +52,3 @@ This notebook demonstrates the extraction and analysis of n-grams from a text co
 ## Visualization
 - Bar charts and word clouds are generated to visually represent the frequency distribution of n-grams.
 - Visualizations help in easily spotting common phrases and understanding overall language patterns within the text.
-
----
-
-## Conclusion
-The notebook successfully implements an n-gram extraction and analysis pipeline. It transforms raw text data into a set of informative n-gram frequency distributions and visualizations, providing a foundation for further text analysis tasks such as language modeling, topic analysis, or sentiment classification.

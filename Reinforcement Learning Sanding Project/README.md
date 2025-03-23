@@ -82,5 +82,3 @@ This reinforcement learning project successfully optimizes the behavior of a san
 - A complete RL pipeline from environment setup to agent training and evaluation.
 - The effectiveness of the LNSS extension in improving performance over the base DDPG algorithm.
 - Robust performance across multiple difficulty levels, verified by statistical tests and visualized training curves.
-
-The work lays a strong foundation for further exploration in reinforcement learning, including more advanced extensions and hyperparameter tuning for real-world applications.

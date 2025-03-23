@@ -70,14 +70,9 @@ In this fourth assignment for **Advanced Probabilistic Methods**, we focus on:
 
 1. **Learned Model (ML-II)**  
    ![Learned Model: ML-II](Screenshot%202025-03-23%20140322.jpg)  
-   *Example of a polynomial curve fit with \(\alpha=1.874\), \(\beta=35.112\), achieving MSE \(\approx 0.0496\). The black/green/red crosses represent training/test data and predicted points.*
 
 2. **Validation Approach**  
    ![Validation Approach](Screenshot%202025-03-23%20140350.jpg)  
-   *Using validation data (blue crosses) to tune hyperparameters (\(\alpha\approx 0.003\), \(\beta\approx 0.025\)), achieving an MSE \(\approx 0.0334\).*
 
 3. **Laplace Approximation vs. True Posterior**  
-   ![Posterior Comparison](Screenshot%202025-03-23%20140415.jpg)  
-   *Illustrates the **Laplace** approximation (red dash-dot) vs. the true posterior (black solid), with the “true” \(\theta\) indicated by a point. The bottom plot shows data against the fitted regression curve.*
-
-Through these steps, we gain practical experience in **model selection**, **Bayesian nonlinear modeling**, and **approximate posterior inference**—powerful tools in advanced Bayesian analysis.
+   ![Posterior Comparison](Screenshot%202025-03-23%20140415.jpg) 

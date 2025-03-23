@@ -11,7 +11,6 @@
     - [Training Procedure](#training-procedure)
     - [Evaluation Metrics](#evaluation-metrics)
   - [Results \& Visualizations](#results--visualizations)
-  - [Conclusion](#conclusion)
 
 ---
 
@@ -60,8 +59,3 @@ In Assignment 4, we implement a Recurrent Neural Network (RNN) to model sequenti
 - **Loss Curves**: Plots showing training and validation loss decreasing over epochs.
 - **Sample Predictions**: Generated sequences or predicted tokens demonstrate that the model has learned meaningful temporal patterns.
 - **Embedding Visualization**: (Optional) t-SNE or PCA plots of the learned embeddings to illustrate clustering of similar tokens.
-
----
-
-## Conclusion
-The implemented RNN model successfully learns sequence dependencies and produces reasonable predictions. The training process shows steady convergence, and the generated samples indicate that the model captures the underlying structure of the sequential data. Future improvements may include experimenting with more advanced recurrent units (e.g., LSTM or GRU), tuning hyperparameters further, or incorporating attention mechanisms for enhanced performance.
