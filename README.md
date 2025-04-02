@@ -1,6 +1,6 @@
-# My Portfolio
+# Syed's Portfolio
 
-Hi, I'm Syed, a MACADAMIA student at Aalto University, and welcome to my portfolio! This is a showcase of the diverse collection of projects and assignments I have worked on. For each project, I provide an overview of the objectives, my approach, and key outcomes. **Please note that, to maintain academic integrity, full assignment code is omitted here.** Instead, you will find high-level descriptions, selected code snippets, performance summaries, or supporting documentation. If any assignments are missing, it is either because they involve derivations by hand, were considered uninteresting, or – maybe – I just forgot. :D
+Hi, I'm Syed, a MACADAMIA student at Aalto University, and welcome to my portfolio! This is a showcase of the diverse  projects and assignments I have worked on. For each project, I provide an overview of the objectives, my approach, and key outcomes. **Please note that, full assignment code is omitted here.** Instead, you will find high-level descriptions, selected code snippets, performance summaries, or supporting documentation. If any assignments are missing, it is either because they involve derivations by hand, were considered uninteresting, or – maybe – I just forgot. :D
 
 ---
 
@@ -167,10 +167,6 @@ Hi, I'm Syed, a MACADAMIA student at Aalto University, and welcome to my portfol
   I conducted iterative feature selection, hyperparameter tuning, and model comparisons to predict used car prices. The decision tree regression model provided superior performance over polynomial regression, underscoring the importance of model selection and robust data preprocessing.
 - **Outcome**: The project highlights the value of systematic experimentation and careful model tuning in achieving accurate price predictions.
 
----
-
-## Disclaimer
-In order to adhere to academic integrity standards, **full assignment code is intentionally omitted** from this repository. The materials provided here serve only as a high-level reference to my work, outlining my approaches, methodologies, and key outcomes. If you have any questions regarding specific implementations or wish to see particular code snippets, please feel free to reach out.
 
 ---
 
