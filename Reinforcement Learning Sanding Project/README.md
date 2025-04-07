@@ -74,7 +74,10 @@ The sanding task requires the robot to:
   - Training curves were plotted for each environment and random seed, showing convergence trends.
   - Comparison plots were generated to illustrate the performance gap between the original and extended DDPG algorithms.
   - Training logs and model weights were saved for further analysis and evaluation.
-  - `middle_eng.gif`
+  - Example of agent behavior in the **middle environment**:<br>
+    ![Middle Environment](middle_env.gif)
+  - Example rollout at **episode 200 with seed 0**:<br>
+    ![Seed 0 Episode 200](_seed_0_ep_200.gif)
 
 ---
 
