@@ -26,7 +26,6 @@ Hi, I'm Syed, a second-year MACADAMIA student at Aalto University graduating in 
   - [SQL Dairy Farm Project](#sql-dairy-farm-project)
   - [Statistical Natural Language Processing Assignments](#statistical-natural-language-processing-assignments)
   - [Used Car Price Prediction Project](#used-car-price-prediction-project)
-  - [Disclaimer](#disclaimer)
 
 ---
 
@@ -173,10 +172,6 @@ A smaller abridged pdf version of the main things found on this repository.
   I conducted iterative feature selection, hyperparameter tuning, and model comparisons to predict used car prices. The decision tree regression model provided superior performance over polynomial regression, underscoring the importance of model selection and robust data preprocessing.
 - **Outcome**: The project highlights the value of systematic experimentation and careful model tuning in achieving accurate price predictions.
 
----
-
-## Disclaimer
-In order to adhere to academic integrity standards, **full assignment code is intentionally omitted** from this repository. The materials provided here serve only as a high-level reference to my work, outlining my approaches, methodologies, and key outcomes. If you have any questions regarding specific implementations or wish to see particular code snippets, please feel free to reach out.
 
 ---
 

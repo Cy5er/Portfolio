@@ -82,4 +82,4 @@ We developed a toxicity detection model from scratch, implementing a transformer
 
 ---
 
-Github link: https://github.com/smaikkeli/snlp-toxicity
+Github link: [https://github.com/smaikkeli/snlp-toxicity](https://github.com/smaikkeli/snlp_toxicity)
