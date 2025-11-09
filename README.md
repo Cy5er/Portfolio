@@ -1,13 +1,15 @@
-# My Portfolio
+# Portfolio
 
-Hi, I'm Syed, a MACADAMIA student at Aalto University, and welcome to my portfolio! This is a showcase of the diverse collection of projects and assignments I have worked on. For each project, I provide an overview of the objectives, my approach, and key outcomes. **Please note that, to maintain academic integrity, full assignment code is omitted here.** Instead, you will find high-level descriptions, selected code snippets, performance summaries, or supporting documentation. If any assignments are missing, it is either because they involve derivations by hand, were considered uninteresting, or – maybe – I just forgot. :D
+Hi, I'm Syed, a second-year MACADAMIA student at Aalto University graduating in December 2025, and welcome to my portfolio! This is a showcase of the diverse collection of projects and assignments I have worked on. For each project, I provide an overview of the objectives, my approach, and key outcomes. My master's thesis is not included here due to an NDA but material can be provided per request (contact smashraf2020@gmail.com).
+**Please note that, to maintain academic integrity, full assignment code is omitted here.** Instead, you will find high-level descriptions, selected code snippets, performance summaries, or supporting documentation. If any assignments are missing, it is either because they involve derivations by hand, were considered uninteresting, or maybe I just forgot. :P
 
 ---
 
 ## Table of Contents
 
-- [My Portfolio](#my-portfolio)
+- [Portfolio](#portfolio)
   - [Table of Contents](#table-of-contents)
+  - [Portfolio At a Glance](#portfolio-at-a-glance)
   - [Advanced Computer Graphics Assignments](#advanced-computer-graphics-assignments)
   - [Advanced Probabilistic Methods Assignments](#advanced-probabilistic-methods-assignments)
   - [C++ Tower Defense Project](#c-tower-defense-project)
@@ -27,6 +29,10 @@ Hi, I'm Syed, a MACADAMIA student at Aalto University, and welcome to my portfol
   - [Disclaimer](#disclaimer)
 
 ---
+
+## Portfolio At a Glance
+A smaller abridged pdf version of the main things found on this repository.
+👉 [Portfolio At A Glance](Portfolio.pdf)
 
 ## Advanced Computer Graphics Assignments
 - **Focus Areas**: Shader programming, physically based rendering, and GPU optimization.
