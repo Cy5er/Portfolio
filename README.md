@@ -1,7 +1,7 @@
 # Portfolio
 
 Hi, I'm Syed, a second-year MACADAMIA student at Aalto University graduating in December 2025, and welcome to my portfolio! This is a showcase of the diverse collection of projects and assignments I have worked on. For each project, I provide an overview of the objectives, my approach, and key outcomes. My master's thesis is not included here due to an NDA but material can be provided per request (contact smashraf2020@gmail.com).
-**Please note that, to maintain academic integrity, full assignment code is omitted here.** Instead, you will find high-level descriptions, selected code snippets, performance summaries, or supporting documentation. If any assignments are missing, it is either because they involve derivations by hand, were considered uninteresting, or maybe I just forgot. :P
+**Please note that full assignment code is omitted here.** Instead, you will find high-level descriptions, selected code snippets, performance summaries, or supporting documentation. If any assignments are missing, it is either because they involve derivations by hand, were considered uninteresting, or maybe I just forgot. :P
 
 ---
 
